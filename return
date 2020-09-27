@@ -1,0 +1,35 @@
+[33mcommit 99cd91e8451b7022b9339b6f7ce4771b92ee3b3a[m[33m ([m[1;36mHEAD -> [m[1;32mfirstBranchPlum[m[33m)[m
+Author: Shreeya <shreeya.xyz@gmail.com>
+Date:   Sun Sep 27 02:44:15 2020 +0530
+
+    commiting the font change on local firstBranchPlum'
+
+[33mcommit 311cfd6f2fdd7938c08edafdf047bd5dc9612c9b[m
+Author: Shreeya <shreeya.xyz@gmail.com>
+Date:   Sun Sep 27 02:34:35 2020 +0530
+
+    changed h1 bg color to plum on a branch 1d28
+
+[33mcommit 1d2831852d3496877f89ee896f59eb2649e0365f[m
+Author: Shreeya <shreeya.xyz@gmail.com>
+Date:   Sun Sep 27 01:29:06 2020 +0530
+
+    added bg color to h1
+
+[33mcommit 5ddfe7e928aeb47a0a180f4cc3c90c953027abd7[m
+Author: Shreeya <shreeya.xyz@gmail.com>
+Date:   Sun Sep 27 01:26:50 2020 +0530
+
+    added basic styles
+
+[33mcommit 8d6137afadc1810f103f350b7bb3c0af6887f08d[m
+Author: Shreeya <shreeya.xyz@gmail.com>
+Date:   Sun Sep 27 01:17:13 2020 +0530
+
+    add app logic
+
+[33mcommit 90ed52f1a2d1b9caa04f20181b6cfd53748a1deb[m
+Author: Shreeya <shreeya.xyz@gmail.com>
+Date:   Sat Sep 26 20:02:35 2020 +0530
+
+    Created index.html
